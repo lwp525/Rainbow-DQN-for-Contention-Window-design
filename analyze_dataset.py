@@ -1,5 +1,5 @@
 import numpy as np 
-import random
+import rando
 import pickle
 import pdb
 from math import *
